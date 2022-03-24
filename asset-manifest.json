@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4ith_act2_tictactoe/static/css/main.bf8270a8.css",
+    "main.js": "/4ith_act2_tictactoe/static/js/main.bea682b1.js",
+    "index.html": "/4ith_act2_tictactoe/index.html",
+    "main.bf8270a8.css.map": "/4ith_act2_tictactoe/static/css/main.bf8270a8.css.map",
+    "main.bea682b1.js.map": "/4ith_act2_tictactoe/static/js/main.bea682b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf8270a8.css",
+    "static/js/main.bea682b1.js"
+  ]
+}
